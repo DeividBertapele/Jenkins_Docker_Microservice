@@ -1,7 +1,7 @@
 # Jenkins_Docker_Microservice 
 
 
-Rodando Jenkins e Docker com microserviços em teste.
+Rodando Jenkins e Docker com microsserviços em teste.
 
 
 ![image](https://user-images.githubusercontent.com/43301551/207126602-71ee057e-aa08-42ff-ac1f-71c7b806a79a.png)
